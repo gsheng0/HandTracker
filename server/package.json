@@ -19,13 +19,16 @@
   },
   "homepage": "https://github.com/gsheng0/HandTracker#readme",
   "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
     "@types/node": "^20.14.0",
+    "@types/validator": "^13.11.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "express": "^4.19.2",
-    "mongodb": "^6.7.0"
+    "mongodb": "^6.7.0",
+    "validator": "^13.12.0"
   }
 }

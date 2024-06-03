@@ -13,4 +13,3 @@ const getCollectionFn = (collection: any) => {
   };
 };
 export const getUserCollection = getCollectionFn("users");
-export const getArticleCollection = getCollectionFn("articles");
